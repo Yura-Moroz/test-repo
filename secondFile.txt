@@ -1,7 +1,12 @@
 Line A
 Line B
+<<<<<<< HEAD
 Line C means concrete ^_^
 Line D means detective 0_0
+=======
+Line C was Updated!
+Line D was Updated...
+>>>>>>> git_2
 Line E
 Line F
 Line G
